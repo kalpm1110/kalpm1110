@@ -1,4 +1,4 @@
-# <div align="center">Hi 👋, I'm **Kalp Mehta**</div>
+# <div align="center">Hi 👋, I'm **Kalp Rakesh Mehta**</div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -25,7 +25,7 @@
 - 🔭 **Currently working on:** Full Stack Development projects
 - 🌱 **Currently learning:** Advanced Full Stack Development
 - 💻 **Ask me about:** React, JavaScript, Web Development
-- 📧 **How to reach me:** krmehta_b23@et.vjti.in
+- 📧 **How to reach me:** kalpm1832@gmail.com
 - ⚡ **Fun fact:** I love turning ideas into reality through code!
 
 <br><br>
